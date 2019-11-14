@@ -103,6 +103,10 @@ body {
   color: var(--omrs-color-brand-black);
 }
 
+.omrs-type-sans {
+  font-family: "Work Sans", sans-serif;
+}
+
 /* The below code was generated from https://google-webfonts-helper.herokuapp.com/fonts/roboto?subsets=latin */
 
 /* roboto-regular - latin */
